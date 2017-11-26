@@ -9,10 +9,12 @@ The tecnologies used during its implementation were:
   <li> Scala
 </ul>
 
-I decided to create a full stack application to take advantage of cross-users' caching and also to demonstrate my expertise as a solution architect.
-
-I also provided a running environment online, at Amazon AWS. You can check it out at ...
-
+I decided to create a full stack application because I can:
+<ul>
+  <li>take advantage of cross-users' caching,</li>
+  <li>demonstrate a wider set of skills, and</li>
+  <li>apply my solution architect expertise, since from an enterprise-scale application point of view building a multi-layer application is more robust.</li>
+</ul>
 
 ## Running locally
 
